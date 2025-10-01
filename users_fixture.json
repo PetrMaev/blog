@@ -1,0 +1,68 @@
+[
+{
+    "model": "users.customuser",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$1000000$BJTCswOhxTDWdYgKOGAesP$kAdgyGDpeyrZLnYhWFuslkIIYItakCezl3thTrokb64=",
+        "last_login": "2025-09-27T14:02:40.339Z",
+        "is_superuser": true,
+        "first_name": "Admin",
+        "last_name": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-09-27T14:02:15.322Z",
+        "login": "",
+        "email": "admin@sky.pro",
+        "born_date": "1990-01-01",
+        "phone_number": null,
+        "created_at": "2025-09-27T14:02:15.374Z",
+        "updated_at": "2025-09-27T14:02:16.197Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.customuser",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$1000000$UqpTbxHWuw7myXK6tZbSUM$KGtaeKxrmGcZy4R9urvmmvSya78FtZ+dXnA5cz5eQYs=",
+        "last_login": null,
+        "is_superuser": false,
+        "first_name": "",
+        "last_name": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-09-27T14:53:45.475Z",
+        "login": "Test_user",
+        "email": "test_user1@mail.ru",
+        "born_date": "2000-09-27",
+        "phone_number": null,
+        "created_at": "2025-09-27T14:53:45.475Z",
+        "updated_at": "2025-09-27T14:53:46.224Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.customuser",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$1000000$sBqvwUZHz0WYWpgshvFhaa$NIEr3iK2iOElvD19Y3umMTeYDv6pADn4KFSoHXDiX2I=",
+        "last_login": null,
+        "is_superuser": false,
+        "first_name": "",
+        "last_name": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-09-27T14:56:17.075Z",
+        "login": "Young_user",
+        "email": "young_user@yandex.ru",
+        "born_date": "2010-09-27",
+        "phone_number": null,
+        "created_at": "2025-09-27T14:56:17.075Z",
+        "updated_at": "2025-09-27T15:00:02.028Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
